@@ -2,7 +2,7 @@ import pygame
 
 import sys
 
-from settings import Settings
+from snake_packet import Settings
 
 class SnakeMain:
 
